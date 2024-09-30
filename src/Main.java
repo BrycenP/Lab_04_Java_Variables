@@ -6,7 +6,7 @@ public class Main {
         int intOperandB = 4;
         int intSum = 10;
         int intProduct = 9;
-        int intDifference = 15
+        int intDifference = 15;
         int intQuotient = 24;
         int intModulo = 13;
         double doubleOperandA = 1.5;
